@@ -15,10 +15,10 @@ Below is a sample of the images for two different species.
 <img width="878" alt="Screenshot 2023-08-30 at 3 46 00 PM" src="https://github.com/KimSB80/Wildlife-Image-Processing/assets/124254338/d92881b6-fa64-4126-aacc-14930e30c98c">
 
 ## Preprocessing and Modeling
-I used the ImageDataGenerator for preprocessing images, which augments the data by randomly shifting, rotating, and flipping the images. I then tried out the following model types and assessed model accuracy and validation loss metric for the following models:
+I used the ImageDataGenerator for preprocessing images, which augments the data by randomly shifting, rotating, and flipping the images. I then tried out the following model types and assessed model accuracy and validation loss metric for the following models: <br>
 
-Model 1: CNN model
-Model 2: VGG16 pre-trained model
+Model 1: CNN model<br>
+Model 2: VGG16 pre-trained model<br>
 
 I first used a convolutional neural network (CNN) model for analyzing and classifying bird images into 16 classes. CNN models are a common type of deep learning model used for classifying images. The CNN model model performed very poorly on the validation and test data (even after adding more layers). I then fit pre-trained VGG16 model, which improved training accuracy and validation accuracy by over 30%, but was still prone to overfitting due to the small size of the dataset, and performed poorly on the test data. 
 
