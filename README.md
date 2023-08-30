@@ -1,6 +1,8 @@
 # Wildlife-Image-Processing
 
-![DSC_6383](https://github.com/KimSB80/Wildlife-Image-Processing/assets/124254338/71a00768-6ad9-4374-8873-31c313503559 =250x250)
+#![DSC_6383](https://github.com/KimSB80/Wildlife-Image-Processing/assets/124254338/71a00768-6ad9-4374-8873-31c313503559)
+
+<img src="[https://github.com/favicon.ico](https://github.com/KimSB80/Wildlife-Image-Processing/assets/124254338/71a00768-6ad9-4374-8873-31c313503559)" width="200", height="200">
 
 ## Problem Statement
 Camera traps, also known as game cameras, are an important tool for monitoring wildlife populations for conservation and management purposes. The cameras allow for wildlife data to be collected with minimal human disturbance, yielding more accurate data for species presence and interactions. Camera traps produce an enormous number of images, and sifting through these images to identify individual species can be time consuming and tedious. Training machine learning models to identify wildlife in camera trap images can therefore save companies an enormous amount of time and resources. 
